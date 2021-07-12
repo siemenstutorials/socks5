@@ -1,6 +1,4 @@
 # socks5
-red
-
 service ss5 stop
 rm -rf /run/ss5
 rm -f 	/run/lock/subsys/ss5
